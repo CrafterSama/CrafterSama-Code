@@ -7,7 +7,7 @@ Hi there! looking for the Best Experience to make code, I create this Color Sche
 The recommended way to install and keep up to date is to install it via
 [Package Control]. Once you have installed Package Control, open it via
 `Preferences -> Package Control` and click on
-`Package Control: Install Package`. Type `Color Scheme - Baara Dark` into the search
+`Package Control: Install Package`. Type `CrafterSama Schema` into the search
 box, then hit enter or click on the result to install.
 
 [Package Control]: https://sublime.wbond.net/installation
