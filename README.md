@@ -18,7 +18,7 @@ box, then hit enter or click on the result to install.
 
 ## The MIT License (MIT)
 
-Copyright (c) 2014 Joaquín Bernal
+Copyright (c) 2017 Julmer Olivero
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
